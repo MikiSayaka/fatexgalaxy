@@ -1,2 +1,4 @@
-# fatemmm
-小說翻譯
+Fate / Magus Meets Magician
+===========================
+
+原文連結
