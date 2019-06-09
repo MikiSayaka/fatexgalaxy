@@ -10,3 +10,5 @@ Fate / Magus Meets Magician
   * [第三節 「人與戰爭的歷史」](./article/0103.md)
   * [閒談一 「英靈和下午茶」](./article/010301.md)
   * [第四節 「遭遇」](./article/0104.md)
+  * [第五節 「不敗與奇蹟」](./article/0105.md)
+  * [第六節 「姓名的意義」](./article/010501.md)
