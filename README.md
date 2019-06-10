@@ -14,3 +14,5 @@ Fate / Magus Meets Magician
   * [閒談二 「姓名的意義」](./article/010501.md)
 * 第二章 - 在夜裡來訪的命運
   * [第六節 「降臨」](./article/0206.md)
+  * [第七節 「混迷」](./article/0207.md)
+  * [第八節 「覺醒」](./article/0208.md)
