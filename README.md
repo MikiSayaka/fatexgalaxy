@@ -17,3 +17,4 @@ Fate / Magus Meets Magician
   * [第七節 「混迷」](./article/0207.md)
   * [第八節 「覺醒」](./article/0208.md)
   * [第九節 「失落環節」](./article/0209.md)
+  * [第十節 「快刀亂麻」](./article/0210.md)
