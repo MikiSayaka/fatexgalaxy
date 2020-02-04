@@ -19,3 +19,4 @@ Fate / Magus Meets Magician
   * [第九節   「失落環節」](./article/0209.md)
   * [第十節   「快刀亂麻」](./article/0210.md)
   * [第十一節 「危機」](./article/0211.md)
+  * [第十二節 「偽裝」](./article/0212.md)
