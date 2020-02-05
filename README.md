@@ -20,3 +20,5 @@ Fate / Magus Meets Magician
   * [第十節   「快刀亂麻」](./article/0210.md)
   * [第十一節 「危機」](./article/0211.md)
   * [第十二節 「偽裝」](./article/0212.md)
+  * [第十三節 「團聚、收拾與...」](./article/0213.md)
+* 第三章 - 興趣與利益
