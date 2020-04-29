@@ -24,3 +24,4 @@ Fate / Magus Meets Magician
 * 第三章 - 興趣與利益
   * [第十四節 「業餘歷史愛好者」](./article/0314.md)
   * [第十五節 「紅與黑」](./article/0315.md)
+  * [第十六節 「一種米養百樣人」](./article/0316.md)
