@@ -25,3 +25,4 @@ Fate / Magus Meets Magician
   * [第十四節 「業餘歷史愛好者」](./article/0314.md)
   * [第十五節 「紅與黑」](./article/0315.md)
   * [第十六節 「一種米養百樣人」](./article/0316.md)
+  * [第十七節 「激烈衝突」](./article/0317.md)
