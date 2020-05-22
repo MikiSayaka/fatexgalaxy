@@ -26,3 +26,4 @@ Fate / Magus Meets Magician
   * [第十五節 「紅與黑」](./article/0315.md)
   * [第十六節 「一種米養百樣人」](./article/0316.md)
   * [第十七節 「激烈衝突」](./article/0317.md)
+  * [第十八節 「三騎士與狂戰士」](./article/0318.md)
