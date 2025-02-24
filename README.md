@@ -29,3 +29,5 @@ Fate / Magus Meets Magician
   * [第十八節 「三騎士與狂戰士」](./article/0318.md)
   * [第十九節 「編織時光的女神」](./article/0319.md)
   * [閒談三 「若魔術師楊招喚了庫夫林」](./article/031901.md)
+* 第四章 - 無形的寶具
+  * [第二十節 「軍略A+」](./article/0420.md)
