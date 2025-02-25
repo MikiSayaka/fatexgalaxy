@@ -31,3 +31,4 @@ Fate / Magus Meets Magician
   * [閒談三 「若魔術師楊招喚了庫夫林」](./article/031901.md)
 * 第四章 - 無形的寶具
   * [第二十節 「軍略A+」](./article/0420.md)
+  * [第二十一節 「無限的知性 －Unlimited Brain Works－」](./article/0421.md)
