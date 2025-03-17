@@ -33,3 +33,4 @@ Fate / Magus Meets Magician
   * [第二十節 「軍略A+」](./article/0420.md)
   * [第二十一節 「無限的知性 －Unlimited Brain Works－」](./article/0421.md)
   * [第二十二節 「知識就是力量」](./article/0422.md)
+  * [第二十三節 「一石二鳥」](./article/0423.md)
