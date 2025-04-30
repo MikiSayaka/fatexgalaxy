@@ -37,3 +37,5 @@ Fate / Magus Meets Magician
   * [閒談四 「繼父悖論」](./article/042301.md)
   * [第二十四節 「咒文和語言」](./article/0424.md)
   * [第二十五節 「首次交鋒就是唇槍舌戰」](./article/0425.md)
+* 第五章 - 弓兵 vs 騎兵
+  * [第二十六節 「萬能的大鍋」](./article/0526.md)
