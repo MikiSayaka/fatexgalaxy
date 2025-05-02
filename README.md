@@ -39,3 +39,4 @@ Fate / Magus Meets Magician
   * [第二十五節 「首次交鋒就是唇槍舌戰」](./article/0425.md)
 * 第五章 - 弓兵 vs 騎兵
   * [第二十六節 「萬能的大鍋」](./article/0526.md)
+  * [第二十七節 「響箭」](./article/0527.md)
