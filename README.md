@@ -41,3 +41,5 @@ Fate / Magus Meets Magician
   * [第二十六節 「萬能的大鍋」](./article/0526.md)
   * [第二十七節 「響箭」](./article/0527.md)
   * [閒談五 僕人與從者](./article/052701.md)
+  * [第二十八節 「日落後持續的戰鬥」](./article/0528.md)
+  * [第二十九節 「夢想破滅的悲歌」](./article/0529.md)
