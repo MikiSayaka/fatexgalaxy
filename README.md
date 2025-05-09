@@ -43,3 +43,4 @@ Fate / Magus Meets Magician
   * [閒談五 僕人與從者](./article/052701.md)
   * [第二十八節 「日落後持續的戰鬥」](./article/0528.md)
   * [第二十九節 「夢想破滅的悲歌」](./article/0529.md)
+  * [第三十節 「新的強敵」](./article/0530.md)
