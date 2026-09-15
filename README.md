@@ -24,7 +24,7 @@ Fate / Magus Meets Magician
 * 第三章 - 興趣與利益
   * [第十四節 「業餘歷史愛好者」](./article/0314.md)
   * [第十五節 「紅與黑」](./article/0315.md)
-  * [第十六節 「一種米養百樣人」](./article/0316.md)
+  * [第十六節 「三者三樣」](./article/0316.md)
   * [第十七節 「激烈衝突」](./article/0317.md)
   * [第十八節 「三騎士與狂戰士」](./article/0318.md)
   * [第十九節 「編織時光的女神」](./article/0319.md)
@@ -44,3 +44,8 @@ Fate / Magus Meets Magician
   * [第二十八節 「日落後持續的戰鬥」](./article/0528.md)
   * [第二十九節 「夢想破滅的悲歌」](./article/0529.md)
   * [第三十節 「新的強敵」](./article/0530.md)
+
+---
+
+#### 專案文件
+* [翻譯與排版風格指南 (Translation Guidelines)](./TRANSLATION_GUIDELINES.md)
