@@ -93,6 +93,7 @@ Fate / Magus Meets Magician
   * [第六十三節 「沉睡之龍」](./article/1063.md)
   * [第六十四節 「手的羈絆」](./article/1064.md)
   * [第六十五節 「怒りの日」](./article/1065.md)
+  * [第六十六節 「救助と守護」](./article/1066.md)
 
 ---
 
