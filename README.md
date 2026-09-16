@@ -108,6 +108,7 @@ Fate / Magus Meets Magician
   * [第七十三節 「共同戰線異狀」](./article/1173.md)
   * [第七十四節 「Time is no return」](./article/1174.md)
   * [第七十五節 「Boy meets Girl」](./article/1175.md)
+  * [第七十六節 「無限的劍製」](./article/1176.md)
 
 ---
 
