@@ -83,6 +83,7 @@ Fate / Magus Meets Magician
   * [第五十六節 「我所征伐的星之大海」](./article/0956.md)
   * [第五十七節 「戰場的心理學家再臨」](./article/0957.md)
   * [第五十八節 「聖杯的拼圖」](./article/0958.md)
+  * [閒話十一 「Archer VS Caster 場外戰」](./article/095801.md)
 
 ---
 
