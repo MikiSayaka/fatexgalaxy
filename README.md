@@ -78,6 +78,7 @@ Fate / Magus Meets Magician
 
 * 第九章 - 聖杯探求
   * [第五十三節 「如字面意義的人才活用」](./article/0953.md)
+  * [第五十四節 「波瀾的自我介紹」](./article/0954.md)
 
 ---
 
