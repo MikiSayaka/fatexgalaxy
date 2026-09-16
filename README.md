@@ -87,6 +87,7 @@ Fate / Magus Meets Magician
 
 * 第十章 - いつか蘇る王
   * [第五十九節 「真名」](./article/1059.md)
+  * [第六十節 「一個人的份量」](./article/1060.md)
 
 ---
 
