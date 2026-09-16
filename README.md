@@ -85,6 +85,9 @@ Fate / Magus Meets Magician
   * [第五十八節 「聖杯的拼圖」](./article/0958.md)
   * [閒話十一 「Archer VS Caster 場外戰」](./article/095801.md)
 
+* 第十章 - いつか蘇る王
+  * [第五十九節 「真名」](./article/1059.md)
+
 ---
 
 #### 專案文件
