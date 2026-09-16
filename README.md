@@ -64,6 +64,7 @@ Fate / Magus Meets Magician
   * [閒話八 「百藥之長與萬靈丹」](./article/074301.md)
   * [第四十四節 「對決」](./article/0744.md)
   * [第四十五節 「沉眠與覺醒」](./article/0745.md)
+  * [閒話九 「擬似親子」](./article/074501.md)
 
 ---
 
