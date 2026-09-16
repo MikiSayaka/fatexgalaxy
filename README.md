@@ -55,6 +55,8 @@ Fate / Magus Meets Magician
   * [第三十七節 「美麗的四面楚歌」](./article/0637.md)
   * [第三十八節 「第七位從者」](./article/0638.md)
   * [閒談七 「沒有英雄的場所」](./article/063801.md)
+* 第七章 - 連戰
+  * [第三十九節 「悼念與傷痛」](./article/0739.md)
 
 ---
 
