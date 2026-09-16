@@ -106,6 +106,7 @@ Fate / Magus Meets Magician
   * [番外編 「楊老師的課外教學 第二堂課：Rider今昔」](./article/117103.md)
   * [第七十二節 「漆黑與黃金」](./article/1172.md)
   * [第七十三節 「共同戰線異狀」](./article/1173.md)
+  * [第七十四節 「Time is no return」](./article/1174.md)
 
 ---
 
