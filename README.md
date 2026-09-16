@@ -96,6 +96,7 @@ Fate / Magus Meets Magician
   * [第六十六節 「救助と守護」](./article/1066.md)
   * [第六十七節 「結集」](./article/1067.md)
   * [第六十八節 「対価」](./article/1068.md)
+  * [第六十九節 「いつか、蘇る王」](./article/1069.md)
 
 ---
 
