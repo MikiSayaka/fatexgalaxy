@@ -80,6 +80,7 @@ Fate / Magus Meets Magician
   * [第五十三節 「如字面意義的人才活用」](./article/0953.md)
   * [第五十四節 「波瀾的自我介紹」](./article/0954.md)
   * [第五十五節 「從未來走向過去」](./article/0955.md)
+  * [第五十六節 「我所征伐的星之大海」](./article/0956.md)
 
 ---
 
