@@ -68,6 +68,7 @@ Fate / Magus Meets Magician
 
 * 第八章 - 謀略的西洋棋賽
   * [第四十六節 「早餐時的來訪者」](./article/0846.md)
+  * [第四十七節 「潛伏於背後之物」](./article/0847.md)
 
 ---
 
