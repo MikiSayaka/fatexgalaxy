@@ -52,6 +52,7 @@ Fate / Magus Meets Magician
   * [第三十四節 「女神的使者」](./article/0634.md)
   * [第三十五節 「餐桌上的英雄譚」](./article/0635.md)
   * [第三十六節 「枕邊的留言」](./article/0636.md)
+  * [第三十七節 「美麗的四面楚歌」](./article/0637.md)
 
 ---
 
