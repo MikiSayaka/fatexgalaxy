@@ -100,6 +100,7 @@ Fate / Magus Meets Magician
 
 * 第十一章 - 七騎同盟
   * [第七十節 「某位英靈的故事」](./article/1170.md)
+  * [第七十一節 「從者肥皂劇」](./article/1171.md)
 
 ---
 
