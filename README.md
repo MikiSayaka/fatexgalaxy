@@ -62,6 +62,7 @@ Fate / Magus Meets Magician
   * [第四十二節 「大義與正義」](./article/0742.md)
   * [第四十三節 「宴席仍在繼續」](./article/0743.md)
   * [閒話八 「百藥之長與萬靈丹」](./article/074301.md)
+  * [第四十四節 「對決」](./article/0744.md)
 
 ---
 
