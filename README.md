@@ -45,6 +45,7 @@ Fate / Magus Meets Magician
   * [第二十九節 「夢想破滅的悲歌」](./article/0529.md)
   * [第三十節 「新的強敵」](./article/0530.md)
   * [第三十一節 「弓兵喜愛會議」](./article/0531.md)
+  * [第三十二節 「戰鬥的姿態」](./article/0532.md)
 
 ---
 
