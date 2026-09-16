@@ -72,6 +72,7 @@ Fate / Magus Meets Magician
   * [第四十八節 「兄與姊」](./article/0848.md)
   * [第四十九節 「各自的心思」](./article/0849.md)
   * [第五十節 「紅瞳所映照之物」](./article/0850.md)
+  * [第五十一節 「賭上那把刃」](./article/0851.md)
 
 ---
 
