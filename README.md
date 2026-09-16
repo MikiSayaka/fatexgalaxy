@@ -70,6 +70,7 @@ Fate / Magus Meets Magician
   * [第四十六節 「早餐時的來訪者」](./article/0846.md)
   * [第四十七節 「潛伏於背後之物」](./article/0847.md)
   * [第四十八節 「兄與姊」](./article/0848.md)
+  * [第四十九節 「各自的心思」](./article/0849.md)
 
 ---
 
