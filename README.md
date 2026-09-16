@@ -57,6 +57,7 @@ Fate / Magus Meets Magician
   * [閒談七 「沒有英雄的場所」](./article/063801.md)
 * 第七章 - 連戰
   * [第三十九節 「悼念與傷痛」](./article/0739.md)
+  * [第四十節 「弓兵 VS 魔術師」](./article/0740.md)
 
 ---
 
