@@ -60,6 +60,7 @@ Fate / Magus Meets Magician
   * [第四十節 「弓兵 VS 魔術師」](./article/0740.md)
   * [第四十一節 「靈脈不如人脈」](./article/0741.md)
   * [第四十二節 「大義與正義」](./article/0742.md)
+  * [第四十三節 「宴席仍在繼續」](./article/0743.md)
 
 ---
 
