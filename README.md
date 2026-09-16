@@ -90,6 +90,7 @@ Fate / Magus Meets Magician
   * [第六十節 「一個人的份量」](./article/1060.md)
   * [第六十一節 「杯【菲爾】」](./article/1061.md)
   * [第六十二節 「解名」](./article/1062.md)
+  * [第六十三節 「沉睡之龍」](./article/1063.md)
 
 ---
 
