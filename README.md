@@ -95,6 +95,7 @@ Fate / Magus Meets Magician
   * [第六十五節 「怒りの日」](./article/1065.md)
   * [第六十六節 「救助と守護」](./article/1066.md)
   * [第六十七節 「結集」](./article/1067.md)
+  * [第六十八節 「対価」](./article/1068.md)
 
 ---
 
