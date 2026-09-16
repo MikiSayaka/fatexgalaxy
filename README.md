@@ -59,6 +59,7 @@ Fate / Magus Meets Magician
   * [第三十九節 「悼念與傷痛」](./article/0739.md)
   * [第四十節 「弓兵 VS 魔術師」](./article/0740.md)
   * [第四十一節 「靈脈不如人脈」](./article/0741.md)
+  * [第四十二節 「大義與正義」](./article/0742.md)
 
 ---
 
