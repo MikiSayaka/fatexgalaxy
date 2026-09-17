@@ -115,6 +115,7 @@ Fate / Magus Meets Magician
   * [第七十八節 「適才適所」](./article/1278.md)
   * [第七十九節 「以女神之名」](./article/1279.md)
   * [第八十節 「願望的姿態」](./article/1280.md)
+  * [第八十一節 「鬼牌的價值」](./article/1281.md)
 
 ---
 
