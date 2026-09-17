@@ -143,6 +143,7 @@ Fate / Magus Meets Magician
 * 番外篇
   * [番外一 「寶具選定幕僚會議」](./article/1497.md)
   * [番外二 「命喪於劍，棄劍而去」](./article/1498.md)
+  * [番外三 「改變之物，不變之物」](./article/1499.md)
 
 ---
 
