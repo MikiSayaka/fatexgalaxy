@@ -127,6 +127,7 @@ Fate / Magus Meets Magician
  
 * 第十三章 - 魔術師降臨
   * [第八十九節 「浪子們的再臨」](./article/1389.md)
+  * [第九十節 「第四度勸告」](./article/1390.md)
 
 ---
 
