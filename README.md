@@ -123,6 +123,7 @@ Fate / Magus Meets Magician
   * [第八十五節 「冬雷若至」](./article/1285.md)
   * [第八十六節 「羈絆之數」](./article/1286.md)
   * [第八十七節 「女演員登場」](./article/1287.md)
+  * [第八十八節 「不敗的魔術師」](./article/1288.md)
 
 ---
 
