@@ -145,6 +145,7 @@ Fate / Magus Meets Magician
   * [番外二 「命喪於劍，棄劍而去」](./article/1498.md)
   * [番外三 「改變之物，不變之物」](./article/1499.md)
   * [番外四 「素人歷史偵探奮鬥記」](./article/149901.md)
+  * [番外五 「美狄亞老師的課外教學」](./article/149902.md)
 
 ---
 
