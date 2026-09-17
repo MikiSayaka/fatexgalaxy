@@ -122,6 +122,7 @@ Fate / Magus Meets Magician
   * [閒話十三 「Dear Friends.」](./article/128401.md)
   * [第八十五節 「冬雷若至」](./article/1285.md)
   * [第八十六節 「羈絆之數」](./article/1286.md)
+  * [第八十七節 「女演員登場」](./article/1287.md)
 
 ---
 
