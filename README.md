@@ -129,6 +129,7 @@ Fate / Magus Meets Magician
   * [第八十九節 「浪子們的再臨」](./article/1389.md)
   * [第九十節 「第四度勸告」](./article/1390.md)
   * [第九十一節 「最後委託」](./article/1391.md)
+  * [第九十二節 「決著」](./article/1392.md)
 
 ---
 
