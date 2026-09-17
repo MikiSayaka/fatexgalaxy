@@ -139,6 +139,9 @@ Fate / Magus Meets Magician
  
 * 尾聲 - 蝴蝶效應
   * [特別節 「蝴蝶效應」](./article/1496.md)
+ 
+* 番外篇
+  * [番外一 「寶具選定幕僚會議」](./article/1497.md)
 
 ---
 
