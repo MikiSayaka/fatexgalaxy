@@ -110,6 +110,9 @@ Fate / Magus Meets Magician
   * [第七十五節 「Boy meets Girl」](./article/1175.md)
   * [第七十六節 「無限的劍製」](./article/1176.md)
 
+* 第十二章 - 歷經無數的戰場
+  * [第七十七節 「再起」](./article/1277.md)
+
 ---
 
 #### 專案文件
