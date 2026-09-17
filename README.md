@@ -135,6 +135,7 @@ Fate / Magus Meets Magician
 * 終章 - 踏上全新旅途
   * [第九十四節 「回歸」](./article/1494.md)
   * [閒話十四 「學校怪談」](./article/149401.md)
+  * [第九十五節 「問與答」](./article/1495.md)
 
 ---
 
