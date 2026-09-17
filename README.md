@@ -119,6 +119,7 @@ Fate / Magus Meets Magician
   * [第八十二節 「黑白之爭」](./article/1282.md)
   * [第八十三節 「皮諾丘的覺醒」](./article/1283.md)
   * [第八十四節 「真正的願望」](./article/1284.md)
+  * [閒話十三 「Dear Friends.」](./article/128401.md)
 
 ---
 
