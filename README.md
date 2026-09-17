@@ -131,6 +131,9 @@ Fate / Magus Meets Magician
   * [第九十一節 「最後委託」](./article/1391.md)
   * [第九十二節 「決著」](./article/1392.md)
   * [第九十三節 「真正的勝者」](./article/1393.md)
+ 
+* 終章 - 踏上全新旅途
+  * [第九十四節 「回歸」](./article/1494.md)
 
 ---
 
