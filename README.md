@@ -113,6 +113,7 @@ Fate / Magus Meets Magician
 * 第十二章 - 歷經無數的戰場
   * [第七十七節 「再起」](./article/1277.md)
   * [第七十八節 「適才適所」](./article/1278.md)
+  * [第七十九節 「以女神之名」](./article/1279.md)
 
 ---
 
